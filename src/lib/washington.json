@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": -120.5, "lat": 47.5 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 20.17,
+    "feels_like": 15.17,
+    "temp_min": 18.33,
+    "temp_max": 22,
+    "pressure": 1015,
+    "humidity": 43
+  },
+  "visibility": 10000,
+  "wind": { "speed": 6.2, "deg": 300 },
+  "clouds": { "all": 1 },
+  "dt": 1599062713,
+  "sys": {
+    "type": 1,
+    "id": 3917,
+    "country": "US",
+    "sunrise": 1599052984,
+    "sunset": 1599100819
+  },
+  "timezone": -25200,
+  "id": 5815135,
+  "name": "Washington",
+  "cod": 200
+}

@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": 7.45, "lat": 46.95 },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 20.38,
+    "feels_like": 18.42,
+    "temp_min": 18.89,
+    "temp_max": 21.67,
+    "pressure": 1017,
+    "humidity": 49
+  },
+  "visibility": 10000,
+  "wind": { "speed": 2.6, "deg": 340 },
+  "clouds": { "all": 40 },
+  "dt": 1599062654,
+  "sys": {
+    "type": 1,
+    "id": 6937,
+    "country": "CH",
+    "sunrise": 1599022290,
+    "sunset": 1599070111
+  },
+  "timezone": 7200,
+  "id": 2661552,
+  "name": "Bern",
+  "cod": 200
+}
